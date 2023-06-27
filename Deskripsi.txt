@@ -1,0 +1,4 @@
+Nama Project :Blog
+Website Blog yang saya buat ini adalah sebuah blog untuk berbagi informasi ,pemikiran dan pengetahuan
+dengan pembaca melalui tulisan dan konten yang dipublikasikan di Blog,penulis dapat menyampaikan ide ,pengalaman 
+atau pandangan tentang sebuah topik yang menarik dan relevan.
